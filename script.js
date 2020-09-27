@@ -1,4 +1,4 @@
-const megaAchieved = 1;   //The Basic Number (Mega's part)
+const megaAchieved = 2;   //The Basic Number (Mega's part)
 
 
 //Vars control the whole program
@@ -116,7 +116,7 @@ function AfterClicked() {
   } else if (inputVal < megaAchieved) {   //Continue your achievements
     document.getElementById("message").innerHTML = "(" + inputVal + ")" + "Continue.";
 
-  } else if (total + 1 == megaAchieved) {   //Changing the stuff cuz we like (megaAchieved = 1;)
+  } if (total + 1 == megaAchieved) {   //Changing the stuff cuz we like (megaAchieved = 1;)
       one();  //Set the Stuff
       /*  Note for the user that there is one left  */
       var x = document.createElement("SPAN");
