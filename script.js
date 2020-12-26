@@ -1,4 +1,4 @@
-const megaAchieved = 3;   //The Basic Number (Abdallah's part)
+const megaAchieved = 4;   //The Basic Number (Abdallah's part)
 
 
 //Vars control the whole program
