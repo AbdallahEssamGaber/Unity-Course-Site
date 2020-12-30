@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 const AGAchieved = 15;   //The Basic Number (Abdallah's part)
-=======
-const megaAchieved = 4;   //The Basic Number (Abdallah's part)
->>>>>>> 4ce5d57bb7cb839bae56ff1d0fb16697f21f0246
 
 
 //Vars control the whole program
