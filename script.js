@@ -1,4 +1,4 @@
-const AGAchieved = 2;   //The Basic Number (Abdallah's part)
+const AGAchieved = 3;   //The Basic Number (Abdallah's part)
 
 
 //Vars control the whole program
